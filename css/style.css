@@ -1,0 +1,17 @@
+@font-face {
+  font-family: snow;
+  src:url(../fonts/EkkamaiStandard-Light.ttf);
+}
+
+
+div{
+  font-family: snow;
+}
+
+.f-20{
+  font-size: 20px;
+}
+
+.f-50{
+  font-size: 50px;
+}

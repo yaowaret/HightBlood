@@ -6,12 +6,20 @@
 
 div{
   font-family: snow;
+    font-size: 13px;
+
 }
 
-.f-20{
-  font-size: 20px;
+.f-12{
+  font-size: 12px;
 }
 
-.f-50{
-  font-size: 50px;
+
+.f-14{
+  font-size: 14px;
+}
+
+.thick {
+    font-weight: bold;
+    font-size: 14px;
 }

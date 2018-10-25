@@ -1,4 +1,11 @@
-var data = JSON.parse(sessionStorage.getItem('result'));
+$(document).ready(function(){
 
-console.log(data.type);
-console.log(data.th);
+  var data = JSON.parse(sessionStorage.getItem('result'));
+
+  console.log(data.type);
+  console.log(data.th);
+
+$( '#result_personal' ).html(data.th);
+
+console.log(data);
+});

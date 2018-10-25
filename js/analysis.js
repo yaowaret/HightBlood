@@ -168,7 +168,6 @@ $(document).ready(function(){
     var jsondata = JSON.stringify(result);
     sessionStorage.setItem('result' , jsondata);
 
-    window.location.href='output.html'
 
 
   });

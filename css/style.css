@@ -6,12 +6,32 @@
 
 div{
   font-family: snow;
+    font-size: 13px;
+
 }
 
-.f-20{
-  font-size: 20px;
+.f-12{
+  font-size: 12px;
 }
 
-.f-50{
-  font-size: 50px;
+.f-10{
+  font-size: 10px;
+}
+
+
+.f-14{
+  font-size: 14px;
+}
+
+.thick {
+    font-weight: bold;
+    font-size: 13px;
+}
+
+body{
+  background-image: linear-gradient(-225deg, #E3FDF5 0%, #FFE6FA 100%);
+}
+
+.back{
+  background-image: linear-gradient(to top, #ff9a9e 0%, #fecfef 99%, #fecfef 100%);
 }

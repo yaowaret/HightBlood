@@ -1,6 +1,6 @@
 @font-face {
   font-family: snow;
-  src:url(../fonts/fc_lamoon_light_ver_1.00-webfont.ttf);
+  src:url(../fonts/thaisanslite_r1-webfont.ttf);
 }
 
 
@@ -25,11 +25,11 @@ div{
 
 .thick {
     font-weight: bold;
-    font-size: 13px;
+    font-size: 18px;
 }
 
 body{
-  background-image: linear-gradient(-225deg, #E3FDF5 0%, #FFE6FA 100%);
+background-image: linear-gradient(-20deg, #ddd6f3 0%, #faaca8 100%, #faaca8 100%);
 }
 
 .back{

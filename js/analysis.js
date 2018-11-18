@@ -28,32 +28,22 @@ $(document).ready(function(){
     var relax = $('#relax').val();
     var stress = $('#stress').val();
     var exercise = $('#exercise').val();
-    // var headache = $('#headache').val();
-    var headache = $('input[name=headache]:checked').val();
-      var headache = $('input[name=headache]:checked').val();
-        var headache = $('input[name=headache]:checked').val();
-          var headache = $('input[name=headache]:checked').val();
-            var headache = $('input[name=headache]:checked').val();
-              var headache = $('input[name=headache]:checked').val();
-                var headache = $('input[name=headache]:checked').val();
-                  var headache = $('input[name=headache]:checked').val();
-                    var headache = $('input[name=headache]:checked').val();
-                      var headache = $('input[name=headache]:checked').val();
-    // var light = $('#light').val();
-    // var color_distortion = $('#color_distortion').val();
-    // var eyelight = $('#eyelight').val();
-    // var anorexia = $('#anorexia').val();
-    // var sleepless = $('#sleepless').val();
-    // var scare = $('#scare').val();
-    // var shake_hand = $('#shake_hand').val();
-    // var dismal = $('#dismal').val();
-    // var forgetful = $('#forgetful').val();
-    // var tired = $('#tired').val();
-    // var fast_heart = $('#fast_heart').val();
-    // var dizzy = $('#dizzy').val();
-    // var pain = $('#pain').val();
-    // var urinary_dis = $('#urinary_dis').val();
-    // var dyspnea = $('#dyspnea').val();
+    var headache = $('#headache').val();
+    var light = $('#light').val();
+    var color_distortion = $('#color_distortion').val();
+    var eyelight = $('#eyelight').val();
+    var anorexia = $('#anorexia').val();
+    var sleepless = $('#sleepless').val();
+    var scare = $('#scare').val();
+    var shake_hand = $('#shake_hand').val();
+    var dismal = $('#dismal').val();
+    var forgetful = $('#forgetful').val();
+    var tired = $('#tired').val();
+    var fast_heart = $('#fast_heart').val();
+    var dizzy = $('#dizzy').val();
+    var pain = $('#pain').val();
+    var urinary_dis = $('#urinary_dis').val();
+    var dyspnea = $('#dyspnea').val();
 
 // if (data.type === 0) {
 //

@@ -35,3 +35,14 @@ background-image: linear-gradient(to top, #d5dee7 0%, #ffafbd 0%, #c9ffbf 100%);
 .back{
   background-image: linear-gradient(to top, #ff9a9e 0%, #fecfef 99%, #fecfef 100%);
 }
+
+
+.handle-label{
+	text-align: left !important;
+}
+
+@media screen and (min-width: 992px) {
+	.handle-label{
+		text-align: right !important;
+	}
+}
